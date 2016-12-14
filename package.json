@@ -1,18 +1,18 @@
 {
-  "name": "npmtest",
+  "name": "silice",
   "version": "1.0.0",
-  "description": "",
+  "description": "Silice boat, we help teams to build your products",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Allel BENBRAHIM",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "lodash": "^4.17.2",
-    "nodemon": "^1.11.0"
+    "sequelize": "^3.27.0"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
